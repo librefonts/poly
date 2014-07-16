@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GPOS>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=2 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="case"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="1"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="cpsp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=2 -->
+      <Lookup index="0">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SinglePos index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="F"/>
+            <Glyph value="E"/>
+            <Glyph value="L"/>
+            <Glyph value="H"/>
+            <Glyph value="T"/>
+            <Glyph value="N"/>
+            <Glyph value="M"/>
+            <Glyph value="A"/>
+            <Glyph value="V"/>
+            <Glyph value="I"/>
+            <Glyph value="O"/>
+            <Glyph value="C"/>
+            <Glyph value="D"/>
+            <Glyph value="B"/>
+            <Glyph value="R"/>
+            <Glyph value="P"/>
+            <Glyph value="K"/>
+            <Glyph value="Q"/>
+            <Glyph value="W"/>
+            <Glyph value="X"/>
+            <Glyph value="U"/>
+            <Glyph value="G"/>
+            <Glyph value="J"/>
+            <Glyph value="Y"/>
+            <Glyph value="Z"/>
+            <Glyph value="S"/>
+            <Glyph value="Ntilde"/>
+            <Glyph value="Udieresis"/>
+            <Glyph value="Oacute"/>
+            <Glyph value="Odieresis"/>
+            <Glyph value="Otilde"/>
+            <Glyph value="Ocircumflex"/>
+            <Glyph value="Ograve"/>
+            <Glyph value="Idieresis"/>
+            <Glyph value="Icircumflex"/>
+            <Glyph value="Iacute"/>
+            <Glyph value="Igrave"/>
+            <Glyph value="Edieresis"/>
+            <Glyph value="Ecircumflex"/>
+            <Glyph value="Eacute"/>
+            <Glyph value="Egrave"/>
+            <Glyph value="Adieresis"/>
+            <Glyph value="Atilde"/>
+            <Glyph value="Acircumflex"/>
+            <Glyph value="Aacute"/>
+            <Glyph value="Agrave"/>
+            <Glyph value="Ugrave"/>
+            <Glyph value="Uacute"/>
+            <Glyph value="Ucircumflex"/>
+            <Glyph value="Yacute"/>
+            <Glyph value="Cacute"/>
+            <Glyph value="Itilde"/>
+            <Glyph value="Ccircumflex"/>
+            <Glyph value="Gcircumflex"/>
+            <Glyph value="Hcircumflex"/>
+            <Glyph value="Jcircumflex"/>
+            <Glyph value="Lacute"/>
+            <Glyph value="Racute"/>
+            <Glyph value="Scircumflex"/>
+            <Glyph value="Ycircumflex"/>
+            <Glyph value="Ydieresis"/>
+            <Glyph value="Zacute"/>
+            <Glyph value="Sacute"/>
+            <Glyph value="Nacute"/>
+            <Glyph value="Wcircumflex"/>
+            <Glyph value="Utilde"/>
+            <Glyph value="Eng"/>
+            <Glyph value="Oslash"/>
+            <Glyph value="_TT"/>
+            <Glyph value="Scaron"/>
+            <Glyph value="Rcaron"/>
+            <Glyph value="Ncaron"/>
+            <Glyph value="Lcaron"/>
+            <Glyph value="Ecaron"/>
+            <Glyph value="Gcaron"/>
+            <Glyph value="Dcaron"/>
+            <Glyph value="Ccaron"/>
+            <Glyph value="Zcaron"/>
+            <Glyph value="Thorn"/>
+            <Glyph value="ampersand"/>
+            <Glyph value="Eth"/>
+            <Glyph value="Ccedilla"/>
+            <Glyph value="Lslash"/>
+            <Glyph value="AE"/>
+            <Glyph value="OE"/>
+            <Glyph value="at"/>
+            <Glyph value="Aring"/>
+            <Glyph value="Uring"/>
+            <Glyph value="Ohungarumlaut"/>
+            <Glyph value="Uhungarumlaut"/>
+            <Glyph value="Amacron"/>
+            <Glyph value="Emacron"/>
+            <Glyph value="Imacron"/>
+            <Glyph value="Omacron"/>
+            <Glyph value="Umacron"/>
+            <Glyph value="Scedilla"/>
+            <Glyph value="Dcroat"/>
+            <Glyph value="Aogonek"/>
+            <Glyph value="Eogonek"/>
+            <Glyph value="Iogonek"/>
+            <Glyph value="Uogonek"/>
+            <Glyph value="Abreve"/>
+            <Glyph value="Ebreve"/>
+            <Glyph value="Gbreve"/>
+            <Glyph value="Ibreve"/>
+            <Glyph value="Obreve"/>
+            <Glyph value="Ubreve"/>
+            <Glyph value="Hbar"/>
+            <Glyph value="Tbar"/>
+            <Glyph value="paragraph"/>
+            <Glyph value="Ldotaccent"/>
+          </Coverage>
+          <ValueFormat value="5"/>
+          <Value XPlacement="25" XAdvance="25"/>
+        </SinglePos>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=4 -->
+        <SinglePos index="0" Format="1">
+          <Coverage Format="2">
+            <Glyph value="parenleft"/>
+            <Glyph value="parenright"/>
+            <Glyph value="bracketleft"/>
+            <Glyph value="bracketright"/>
+            <Glyph value="braceleft"/>
+            <Glyph value="braceright"/>
+          </Coverage>
+          <ValueFormat value="2"/>
+          <Value YPlacement="50"/>
+        </SinglePos>
+        <SinglePos index="1" Format="1">
+          <Coverage Format="1">
+            <Glyph value="hyphen"/>
+            <Glyph value="endash"/>
+            <Glyph value="emdash"/>
+            <Glyph value="bullet"/>
+            <Glyph value="guillemotleft"/>
+            <Glyph value="guillemotright"/>
+            <Glyph value="guilsinglleft"/>
+            <Glyph value="guilsinglright"/>
+            <Glyph value="periodcentered"/>
+          </Coverage>
+          <ValueFormat value="2"/>
+          <Value YPlacement="80"/>
+        </SinglePos>
+        <SinglePos index="2" Format="1">
+          <Coverage Format="1">
+            <Glyph value="at"/>
+          </Coverage>
+          <ValueFormat value="2"/>
+          <Value YPlacement="112"/>
+        </SinglePos>
+        <SinglePos index="3" Format="1">
+          <Coverage Format="1">
+            <Glyph value="questiondown"/>
+            <Glyph value="exclamdown"/>
+          </Coverage>
+          <ValueFormat value="2"/>
+          <Value YPlacement="190"/>
+        </SinglePos>
+      </Lookup>
+    </LookupList>
+  </GPOS>
+
+</ttFont>

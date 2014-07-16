@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Poly-Italic.otf.GlyphOrder.ttx"/>
+  <head src="Poly-Italic.otf._h_e_a_d.ttx"/>
+  <hhea src="Poly-Italic.otf._h_h_e_a.ttx"/>
+  <maxp src="Poly-Italic.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Poly-Italic.otf.O_S_2f_2.ttx"/>
+  <name src="Poly-Italic.otf._n_a_m_e.ttx"/>
+  <cmap src="Poly-Italic.otf._c_m_a_p.ttx"/>
+  <post src="Poly-Italic.otf._p_o_s_t.ttx"/>
+  <CFF src="Poly-Italic.otf.C_F_F_.ttx"/>
+  <GPOS src="Poly-Italic.otf.G_P_O_S_.ttx"/>
+  <GSUB src="Poly-Italic.otf.G_S_U_B_.ttx"/>
+  <hmtx src="Poly-Italic.otf._h_m_t_x.ttx"/>
+</ttFont>
